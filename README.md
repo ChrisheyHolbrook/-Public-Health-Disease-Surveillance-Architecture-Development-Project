@@ -1,7 +1,7 @@
 # -Public-Health-Disease-Surveillance-Architecture-Development-Project
 Project Overview
 
-For this roject, our goal is to craft a robust architecture for disease surveillance that amps up public health monitoring and response capabilities. We're all about making sure we catch those disease outbreaks early and manage them like pros, leading to better public health outcomes all around.
+For this project, our goal is to craft a robust architecture for disease surveillance that amps up public health monitoring and response capabilities. We're all about making sure we catch those disease outbreaks early and manage them like pros, leading to better public health outcomes all around.
 
 Objectives
 
