@@ -1,21 +1,21 @@
 # -Public-Health-Disease-Surveillance-Architecture-Development-Project
-Project Overview
+Project Overview:
 
 For this project, our goal is to craft a robust architecture for disease surveillance that amps up public health monitoring and response capabilities. We're all about making sure we catch those disease outbreaks early and manage them like pros, leading to better public health outcomes all around.
 
-Objectives
+Objectives:
 
 To design an architecture that can handle all sorts of data sources and surveillance data types.
 To create data integration and preprocessing pipelines to keep our data clean and consistent.
 Develop some analytical modules for spotting disease outbreaks in real-time.
 Build intuitive dashboards and visualization tools so that individuals can easily keep an eye on outbreaks and other related issues.
 
-Technologies Used
+Technologies Used:
 
 Programming Languages: Python, SQL
 Visualization: MDocker, Git, Restful APIs, GIS (Geographic Information Systems), HL7 FHIR, HAPI-FHIR, OpenEMR
 
-Challenges Faced
+Challenges Faced:
 
 Data Diversity: Bringing together data from different sources with their own unique formats and standards presented challenges in harmonizing and preprocessing the data.
 
@@ -25,7 +25,7 @@ Confidentiality and Protection: Guaranteeing data confidentiality and privacy co
 
 Engagement: Involving community members and grasping their needs throughout the project's journey was vital for delivering a solution that truly resonates with them.
 
-Outcomes Achieved
+Outcomes Achieved:
 
 Successfully designed and implemented a scalable architecture that integrates data from multiple sources and supports real-time analytics.
 
